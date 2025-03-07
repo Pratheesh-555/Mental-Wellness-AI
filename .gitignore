@@ -1,0 +1,13 @@
+# Ignore .env file in the backend directory
+backend/.env
+
+# Ignore node_modules and package-lock.json in the frontend directory
+frontend/node_modules/
+frontend/package-lock.json
+
+# Ignore node_modules and package-lock.json in the backend directory
+backend/node_modules/
+backend/package-lock.json
+
+# Ignore Dialogflow key file
+backend/keys/dialogflow-key.json
